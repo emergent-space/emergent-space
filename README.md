@@ -37,7 +37,7 @@ Interested in understanding how life, intelligence, order, and self-organization
 
 An exploration of how complex patterns and behaviors emerge from simple local rules.
 
-<img src="assets/emergent-space-cellular-automata.gif" width="100%" alt="Conway's Game of Life cellular automaton animation"/>
+<img src="emergent-space-cellular-automata.gif" width="100%" alt="Conway's Game of Life"/>
 
 <br>
 
@@ -47,7 +47,7 @@ An exploration of how complex patterns and behaviors emerge from simple local ru
 
 A deterministic dynamical system exhibiting sensitive dependence on initial conditions and chaotic behavior.
 
-<img src="assets/emergent-space-lorenz-attractor.gif" width="100%" alt="Three-dimensional Lorenz attractor animation"/>
+<img src="emergent-space-lorenz-attractor.gif" width="100%" alt="Lorenz Attractor"/>
 
 </div>
 
